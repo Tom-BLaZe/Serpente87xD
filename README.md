@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Serpente87xD
+- 👋 Hi, I’m @BLaZe_
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on google
